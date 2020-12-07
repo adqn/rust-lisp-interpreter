@@ -1,5 +1,5 @@
 [package]
-name = "lisp-interpreter"
+name = "rust-lisp-interpreter"
 version = "0.1.0"
 authors = ["adqn <57331120+adqn@users.noreply.github.com>"]
 edition = "2018"
