@@ -1,1 +1,1 @@
-Lisp interpreter written in Rust.
+To be a Lisp interpreter written in Rust.
